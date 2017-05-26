@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bottom Navigation Bar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home</string>
+    <string name="offers_fragment">Offers</string>
+    <string name="search_fragment">Search</string>
+    <string name="profile_fragment">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

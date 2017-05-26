@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f640e4bb4e0a809f32df3b14f4e0d78a021c5d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_1e3661b83e499698c915899d7711b455600bee85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_95c8c5f0396746f77c3f75769f7de9dbf6f00eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_546fa734218dbfadc26473bd3dd57626ebba0832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_93c3e9b06e8cf7a581554b19ae518cdf85c6ecae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_bcc8297a1e36d525dae41d7e8d96480621998444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_bba332ae1c951a9d6cd6063dcbca6dc4714dd569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_c4e74dd985ca7682b91e759e66a700d24d51cb70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_91467841d51bc085ab66220a58ca9bf6f3cbf36b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_9a91ca277561a4c0d62cf91436f02d43ba1d947f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_1a663b19e71d6d3d9e34f959eb9d712d9f255bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_03e0204ebb36e4e67dc46e1bb1c3595ef331abd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/silenthacker/Development/BottomNavigationBar/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_37ca227c285b79e0f355efe742c9b4d7031c2ab7.jar" />
+    </item>
+
+</items>
